@@ -1,0 +1,29 @@
+{
+  "name": "regex-to-nfa-dfa-converter",
+  "version": "1.0.0",
+  "description": "This is a React-based tool to convert regular expressions to NFA and DFA with visualizations.",
+  "main": "Regex-to-NFA-DFA-Converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sameer-rana-work/Regex-to-NFA-DFA-Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sameer-rana-work/Regex-to-NFA-DFA-Converter/issues"
+  },
+  "homepage": "https://github.com/sameer-rana-work/Regex-to-NFA-DFA-Converter#readme",
+  "dependencies": {
+    "chart.js": "^4.5.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "viz.js": "^2.1.2"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.27.1"
+  }
+}
