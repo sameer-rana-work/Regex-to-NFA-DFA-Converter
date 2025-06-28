@@ -10,3 +10,6 @@ The Regex to NFA/DFA Converter transforms regex into NFA and DFA, offering visua
  
 ## Usage 
 Run locally with Node.js and live-server after installing dependencies. 
+ 
+## Documentation 
+See [PROJECT DOCUMENTATION.pdf](PROJECT%20DOCUMENTATION.pdf) for detailed project information. 
