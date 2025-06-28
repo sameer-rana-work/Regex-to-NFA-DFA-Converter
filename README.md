@@ -13,3 +13,7 @@ Run locally with Node.js and live-server after installing dependencies.
  
 ## Documentation 
 See [PROJECT DOCUMENTATION.pdf](PROJECT%20DOCUMENTATION.pdf) for detailed project information. 
+ 
+## Outputs 
+- [NFA Output 1.1](images/1.1_nfa.png) 
+- [PDF Documentation](PROJECT%20DOCUMENTATION.pdf) 
